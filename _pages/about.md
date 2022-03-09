@@ -18,7 +18,7 @@ We are part of the [Computer Science and Engineering Department](https://www.uta
 ### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> We are hiring!!
 * **RAships/TAships appointments available:** Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in autonomous systems, software engineering and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
-### <i class="fa fa-fw fa-lightbulb-on" aria-hidden="true"></i> Research Topics
+### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and 
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
