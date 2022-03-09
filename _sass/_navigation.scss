@@ -84,7 +84,7 @@
       text-align: center;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
-      border: 1px solid #7e54bd;
+      border: 1px solid #0064b1;
       border-radius: 0;
 
       &:hover {
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: #7e54bd;
+        background: #0064b1;
       }
 
       &.disabled {
@@ -189,7 +189,7 @@
     }
      
      &:active{
-        color: #7E54BD;
+        color: #0064b1;
      }
   }
 
