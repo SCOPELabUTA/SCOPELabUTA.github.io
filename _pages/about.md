@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About SCOPE Labs
-SCOPE Lab works on techniques for **S**howing **C**orrectness **O**f (all) **P**rogram **E**xecutions. We aims to develop foundational technologies for improving the reliability of software systems. A core theme of our research is to improve the feasibility of formal methods and reduce the effort to ensure software systems work correctly. 
+SCOPE Lab works on techniques for **s**howing **c**orrectness **o**f all **p**rogram **e**xecutions. We aims to develop foundational technologies for improving the reliability of software systems. A core theme of our research is to improve the feasibility of formal methods and reduce the effort to ensure software systems work correctly. 
 
 We are part of the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
