@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<h4>"The world always seems brighter when you've just made something that wasn't there before."</h4>
- 
- *~Neil Gaiman*
  
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About SCOPE Labs
 SCOPE Lab works on techniques for **S**howing **C**orrectness **O**f (all) **P**rogram **E**xecutions. 
