@@ -26,7 +26,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 * **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
-* * **Feburary 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
+* **Feburary 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
 * **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
 * **Decemeber 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
 * **October 2021:** Presented our solution enumeration tool [Hawkeye](https://github.com/alloy-hawkeye/Hawkeye) at [ISSRE2021](https://2021.issre.net/).
