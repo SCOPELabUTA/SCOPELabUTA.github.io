@@ -24,15 +24,15 @@ Autonomous vehicles are a future technology that many expect to come to fruition
 ### <i class="fa fa-fw fa-code-branch" aria-hidden="true"></i> Tools
 
 An important component of research is ensuring that the research efforts can be utilized by others. Ultimately, we want to  transition research ideas into tools that are used by the software development community.
-  * Scenario Enumeration Tools for Alloy:
-     * **[HawkEye:](https://github.com/alloy-hawkeye/Hawkeye)** An interactive enumerator tool for Alloy that allows users to control how the next scenario enumated by Alloy differs from the current one.
-     * **[Seabs:](https://github.com/Allisonius/Seabs)** Tool to allow the user to guide solution enumeration for an Alloy model using abstract functions.
-  * Testing tools for Alloy
-    * **[AUnit Analyzer:](https://sites.google.com/view/aunitanalyzer)** Extension to the Alloy Analyzer that provides support for AUnit (test creation, test execution, coverage).
-    * **[MuAlloy:](https://github.com/kaiyuanw/MuAlloy)** Mutation testing tool for Alloy 
-    * **[AlloyFL:](https://AlloyFL.github.io)** Tool for automated fault localization of Alloy models.
-  * Synthesis tools for Alloy
-    * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts performs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
-    * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
-  * Testing Tools for Prolog
-    * **[ProFl:](https://github.com/geoorge1d127/ProFl)** Tool for automated fault localization of Prolog models.
+**Scenario Enumeration Tools for Alloy:**
+  * **[HawkEye:](https://github.com/alloy-hawkeye/Hawkeye)** An interactive enumerator tool for Alloy that allows users to control how the next scenario enumated by Alloy differs from the current one.
+  * **[Seabs:](https://github.com/Allisonius/Seabs)** Tool to allow the user to guide solution enumeration for an Alloy model using abstract functions.
+**Testing tools for Alloy**
+  * **[AUnit Analyzer:](https://sites.google.com/view/aunitanalyzer)** Extension to the Alloy Analyzer that provides support for AUnit (test creation, test execution, coverage).
+  * **[MuAlloy:](https://github.com/kaiyuanw/MuAlloy)** Mutation testing tool for Alloy 
+  * **[AlloyFL:](https://AlloyFL.github.io)** Tool for automated fault localization of Alloy models.
+**Synthesis tools for Alloy**
+  * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts performs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
+  * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
+**Testing Tools for Prolog**
+  * **[ProFl:](https://github.com/geoorge1d127/ProFl)** Tool for automated fault localization of Prolog models.
