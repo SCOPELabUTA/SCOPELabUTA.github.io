@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SCOPE Lab at UTA"
   avatar           : "icon.png"
-  bio              : "Automated software engineering and formal methods research lab at UTA"
+  bio              : "Working on techniques for Showing Correctness Of All Program Executions"
   location         : ERB 100
   employer         : "UT Arlington"
   googlescholar    : 
