@@ -8,7 +8,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
 ## <i class="fa fa-fw fa-bug" aria-hidden="true"></i> Verification and Synthesis of Formal Methods
-AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. Additionally, AUnit enables automated repair and synthesis techniques for Alloy. These frameworks ease the burden of developing Alloy models, which is a non-trivial task. Based on the success of AUnit, we plan to explore verification and synthesis techniques for a broader range of formal modeling languages. 
+AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. These frameworks ease the burden of developing Alloy models, which is a non-trivial task. Based on the success of AUnit, we plan to explore verification and synthesis techniques for a broader range of formal modeling languages. 
 
 ## <i class="fa fa-fw fa-book-reader" aria-hidden="true"></i> Testing and Verification Machine Learning Systems
 Machine learning is a popular, growing field. However, machine learning systems are very different in nature to our previous definitions of software programs. As we start to integrate machine learning systems into our daily lives, there is a pressing need to make sure these systems are correct. We need to know that these black-box decisions coming out of the machine learning system can be trusted. We are exploring avenues to improve and define "testing" and verification for these systems.
@@ -24,15 +24,19 @@ Autonomous vehicles are a future technology that many expect to come to fruition
 ### <i class="fa fa-fw fa-code-branch" aria-hidden="true"></i> Tools
 
 An important component of research is ensuring that the research efforts can be utilized by others. Ultimately, we want to  transition research ideas into tools that are used by the software development community.
+
 **Scenario Enumeration Tools for Alloy:**
   * **[HawkEye:](https://github.com/alloy-hawkeye/Hawkeye)** An interactive enumerator tool for Alloy that allows users to control how the next scenario enumated by Alloy differs from the current one.
   * **[Seabs:](https://github.com/Allisonius/Seabs)** Tool to allow the user to guide solution enumeration for an Alloy model using abstract functions.
+ 
 **Testing tools for Alloy**
   * **[AUnit Analyzer:](https://sites.google.com/view/aunitanalyzer)** Extension to the Alloy Analyzer that provides support for AUnit (test creation, test execution, coverage).
   * **[MuAlloy:](https://github.com/kaiyuanw/MuAlloy)** Mutation testing tool for Alloy 
   * **[AlloyFL:](https://AlloyFL.github.io)** Tool for automated fault localization of Alloy models.
+
 **Synthesis tools for Alloy**
   * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts performs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
   * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
+
 **Testing Tools for Prolog**
   * **[ProFl:](https://github.com/geoorge1d127/ProFl)** Tool for automated fault localization of Prolog models.
