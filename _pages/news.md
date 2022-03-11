@@ -13,7 +13,6 @@ author_profile: true
 * **June 2021:** [Allison](https://allisonius.github.io/) has recieved a [NSF FmitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123341&HistoricalAwards=false) to investigate improvements to Alloy's scenario finding functionality.
 * **February 2021:** [Allison](https://allisonius.github.io/) has joined the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA.
 * **Janurary 2021:** Hosted a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
-https://mavorgs.campuslabs.com/engage/organization/societyofwomenengineers)) at UTA. 
 * **August 2020:** One paper accepted into [ISSRE 2020](http://2020.issre.net/) "Fault Localization for Declarative Models in Alloy"
 * **July 2020:** [Allison](https://allisonius.github.io/) is Co-PI on a [NSF MRI award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018879&HistoricalAwards=false) to obtain equipment to facilitate research on the interaction between multiple autonomous ground vehicles. 
 * **June 2020:** [Allison](https://allisonius.github.io/) started working as an assistant professor at UTA and moved SCOPE lab to UTA.
