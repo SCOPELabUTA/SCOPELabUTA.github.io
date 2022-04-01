@@ -17,6 +17,10 @@ We are part of the [Computer Science and Engineering Department](https://www.uta
 
 ### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> We are hiring!!
 * **RAships/TAships appointments available:** Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in autonomous systems, software engineering and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
+* *	Applicants must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. To be considered for this assistantship, applicants should apply by the May 1, 2022 deadline. Applications are being accepted now. Mention Dr. Sullivan in your statement of purpose. https://www.uta.edu/admissions/apply/graduate)
+* *	In addition to applying to UTA’s CSE PhD program, interest applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
+* *	So, what will you get to work on? This position is looking for students interested in software verification, which aims to prove that software systems are functionally correct (which is becoming an increasingly important topic as we depend more and more on software in our daily lives). Unfortunately, writing software models is intimidating, weird and ironically an error-prone task. One of the main focuses in SCOPE Lab is to making verification easier for developers to perform. Applicants will get the chance to work on a National Science Foundation funded project that looks to help synthesize software models and automatically repair software models. 
+
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and 
@@ -25,7 +29,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-* **April 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on passing your diagnostic exam!
+* **April 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) and Ana on passing your diagnostic exams!
 * **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
 * **Feburary 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
 * **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
