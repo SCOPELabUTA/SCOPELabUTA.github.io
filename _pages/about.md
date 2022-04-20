@@ -9,7 +9,9 @@ redirect_from:
 ---
  
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About SCOPE Labs
-SCOPE Lab works on techniques for **s**howing **c**orrectness **o**f all **p**rogram **e**xecutions. We aims to develop foundational technologies for improving the reliability of software systems. A core theme of our research is to reduce the effort needed by developers to ensure their software system works correctly. To reduce the "effort" we focus on building autoamted verification, debugging and synthesis techniques for the software implementation (code) _and_ the software design (model).
+SCOPE Lab works on techniques for **s**howing **c**orrectness **o**f all **p**rogram **e**xecutions. We aims to develop foundational technologies for improving the reliability of software systems. 
+
+A core theme of our research is to reduce the effort needed by developers to ensure their software system works correctly. To reduce the "effort" we focus on building automated verification, debugging and synthesis techniques for the software implementation (code) _and_ the software design (model).
 
 We are part of the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
@@ -20,6 +22,7 @@ We are part of the [Computer Science and Engineering Department](https://www.uta
 *	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. To be considered for this assistantship, applicants should apply by the May 1, 2022 deadline. [Applications are being accepted now.](https://www.uta.edu/admissions/apply/graduate) Mention Dr. Sullivan in your statement of purpose. 
 *	In addition to applying to UTA’s CSE PhD program, interest applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
 *	So, what will you get to work on? This position is looking for students interested in software verification, which aims to prove that software systems are functionally correct. Unfortunately, writing software models is intimidating, weird and ironically an error-prone task. One of the main focuses in SCOPE Lab is to making verification easier for developers to perform. Applicants will get the chance to work on a National Science Foundation funded project that looks to help synthesize software models and automatically repair software models.
+*	Students generally interested in improving software testing or software verification techniques are also welcome to apply.
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and 
