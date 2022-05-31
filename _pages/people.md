@@ -10,6 +10,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **Ana Jovanovic** <br> - Doctoral, Focus: Formal Verification <br> - Projected Graduation: Spring 2024
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2024
+* **Adam Emerson** <br> - Bachelors, Focus: Compiler Optimizations <br> - Projected Graduation: Spring 2023
 * **Resha Adhikari** <br> - Bachelors, Focus: Empirical Study of Model Synthesis and Repair <br> - Projected Graduation: Spring 2023
 
 ### <i class="fa fa-fw fa-hands-helping" aria-hidden="true"></i> Volunteer Positions
