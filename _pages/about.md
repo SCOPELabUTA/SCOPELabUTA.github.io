@@ -19,7 +19,7 @@ We are part of the [Computer Science and Engineering Department](https://www.uta
 
 ### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> We are hiring!!
 **RAships/TAships appointments available:** Please contact me if you are a interested in pursuing a PhD and have an interest in software engineering and formal verification.  
-*	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. To be considered for this assistantship, applicants should apply by the May 1, 2022 deadline. [Applications are being accepted now.](https://www.uta.edu/admissions/apply/graduate) Mention Dr. Sullivan in your statement of purpose. 
+*	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. Mention Dr. Sullivan in your statement of purpose. 
 *	In addition to applying to UTA’s CSE PhD program, interest applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
 *	So, what will you get to work on? This position is looking for students interested in software verification, which aims to prove that software systems are functionally correct. Unfortunately, writing software models is intimidating, weird and ironically an error-prone task. One of the main focuses in SCOPE Lab is to making verification easier for developers to perform. Applicants will get the chance to work on a National Science Foundation funded project that looks to help synthesize software models and automatically repair software models.
 *	Students generally interested in improving software testing or software verification techniques are also welcome to apply.
@@ -31,6 +31,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **July 2022:** We have received a [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) grant to work on incremental analysis of software models across their development, testing and synthesis. 
 * **April 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) and Ana on passing your diagnostic exams!
 * **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
 * **Feburary 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
