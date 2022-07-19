@@ -21,7 +21,7 @@ We are part of the [Computer Science and Engineering Department](https://www.uta
 **RAships/TAships appointments available:** Please contact me if you are a interested in pursuing a PhD and have an interest in software engineering and formal verification.  
 *	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. Mention Dr. Sullivan in your statement of purpose. 
 *	In addition to applying to UTA’s CSE PhD program, interest applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
-*	So, what will you get to work on? This position is looking for students interested in software verification, which aims to prove that software systems are functionally correct. Unfortunately, writing software models is intimidating, weird and ironically an error-prone task. One of the main focuses in SCOPE Lab is to making verification easier for developers to perform. Applicants will get the chance to work on a National Science Foundation funded project that looks to help synthesize software models and automatically repair software models.
+*	So, what will you get to work on? We are looking for students interested in working on our recently funded [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) project.
 *	Students generally interested in improving software testing or software verification techniques are also welcome to apply.
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
