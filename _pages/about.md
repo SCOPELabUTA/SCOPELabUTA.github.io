@@ -13,14 +13,14 @@ SCOPE Lab works on techniques for **s**howing **c**orrectness **o**f all **p**ro
 
 A core theme of our research is to reduce the effort needed by developers to ensure their software system works correctly. To reduce the "effort" we focus on building automated verification, debugging and synthesis techniques for the software implementation (code) _and_ the software design (model).
 
-We are part of the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
+We are part of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) within the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
 ### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> We are hiring!!
 **RAships/TAships appointments available:** Please contact me if you are a interested in pursuing a PhD and have an interest in software engineering and formal verification.  
 *	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. Mention Dr. Sullivan in your statement of purpose. 
-*	In addition to applying to UTA’s CSE PhD program, interest applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
+*	In addition to applying to UTA’s CSE PhD program, interested applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
 *	So, what will you get to work on? We are looking for students interested in working on our recently funded [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) project.
 *	Students generally interested in improving software testing or software verification techniques are also welcome to apply.
 
