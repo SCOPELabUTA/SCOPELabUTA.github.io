@@ -11,7 +11,7 @@ redirect_from:
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About SCOPE Labs
 SCOPE Lab works on techniques for **s**howing **c**orrectness **o**f all **p**rogram **e**xecutions. We aims to develop foundational technologies for improving the reliability of software systems. 
 
-A core theme of our research is to reduce the effort needed by developers to ensure their software system works correctly. To reduce the "effort" we focus on building automated verification, debugging and synthesis techniques for the software implementation (code) _and_ the software design (model).
+A core theme of our research is to reduce the effort needed by developers to ensure their software system works correctly. To reduce the "effort" we focus on building automated verification, debugging and synthesis techniques for the software implementation (code) and the software design (model). You can see an overview of our research work [here](/files/ScopeLabOverview.pdf).
 
 We are part of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) within the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
