@@ -31,7 +31,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-* **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022]([https://conf.researchr.org/home/icse-2022/Formalise-](https://issre2022.github.io/index.html). Congratulations Ana!
+* **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022](https://issre2022.github.io/index.html). Congratulations Ana!
 * **July 2022:** We have received a [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) grant to work on incremental analysis of software models across their development, testing and synthesis. 
 * **April 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) and Ana on passing your diagnostic exams!
 * **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
