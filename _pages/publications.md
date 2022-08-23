@@ -5,10 +5,14 @@ author_profile: true
 ---
 ### 2022
 
+* **REACH: Refining Alloy Scenarios by Size**     
+A. Jovanovic, **A.Sullivan**  
+_The 33rd International Symposium on Software Reliability Engineering_      
+(ISSRE) To Appear.  
 * **Towards Automated Input Generation for Sketching Alloy Models**     
 A. Jovanovic, **A.Sullivan**  
 _The 10th International Conference on Formal Methods in Software Engineering_      
-(FormaliSE) To Appear.  
+(FormaliSE) \[[PDF](../files/FormaliSE2022.pdf)\].  
 
 ### 2021
 
