@@ -31,6 +31,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **September 2022:** Our recent NSF grant is being talked about in the [media](https://www.uta.edu/news/news-releases/2022/09/22/sullivan-nsf-software-updates).
 * **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022](https://issre2022.github.io/index.html). Congratulations Ana!
 * **July 2022:** We have received a [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) grant to work on incremental analysis of software models across their development, testing and synthesis. 
 * **April 2022:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) and Ana on passing your diagnostic exams!
