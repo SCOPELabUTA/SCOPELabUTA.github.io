@@ -10,14 +10,16 @@ author_profile: true
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **Ana Jovanovic** <br> - Doctoral, Focus: Formal Verification <br> - Projected Graduation: Spring 2024
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2024
-* **Adam Emerson** <br> - Bachelors, Focus: Compiler Optimizations <br> - Projected Graduation: Spring 2023
-* **Resha Adhikari** <br> - Bachelors, Focus: Empirical Study of Model Synthesis and Repair <br> - Projected Graduation: Spring 2023
+* **Guanxuan Wu** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
+* **Adam Emerson** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
+* **Cristian Munoz** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
 
 ### <i class="fa fa-fw fa-hands-helping" aria-hidden="true"></i> Volunteer Positions
 * **Saravanan Thirunavukkarasu** <br> - Role: Transform ASketch interfaces into educational exercises.
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-* **William Dunston** <br> - **B.S. in CE Fall 2020:** Extended a Java-based program repair tool to support a broader scope of Java's syntax.
+* **Resha Adhikari** <br> - Bachelors, Empirical study of auomated repair and syhnthesis techniques for modeling languages.
+* * **William Dunston** <br> - **B.S. in CE Fall 2020:** Extended a Java-based program repair tool to support a broader scope of Java's syntax.
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - **Received:** Rising Scholar Award - only one rising scholar award is given out for the entire university. <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **George Thompson** <br> - **M.S. Thesis May 2020:** "Towards Automated Fault Localization for Prolog Models" <br> - Nominated for Outstanding Thesis Award <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **Joelle Banks** <br> - **B.S. in CS May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis.
