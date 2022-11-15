@@ -3,16 +3,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### 2023
+
+* **Abstract Alloy Instances**     
+J. O. Ringert, **A.Sullivan**  
+_The 25th International Symposium on Formal Methods_      
+(FM) To Appear. 
+
 ### 2022
 
 * **REACH: Refining Alloy Scenarios by Size**     
 A. Jovanovic, **A.Sullivan**  
 _The 33rd International Symposium on Software Reliability Engineering_      
-(ISSRE) To Appear.  
+(ISSRE) October 2022.  \[[PDF](../files/ISSRE2022.pdf)\].
 * **Towards Automated Input Generation for Sketching Alloy Models**     
 A. Jovanovic, **A.Sullivan**  
 _The 10th International Conference on Formal Methods in Software Engineering_      
-(FormaliSE) \[[PDF](../files/FormaliSE2022.pdf)\].  
+(FormaliSE) May 2022. \[[PDF](../files/FormaliSE2022.pdf)\]. 
 
 ### 2021
 
