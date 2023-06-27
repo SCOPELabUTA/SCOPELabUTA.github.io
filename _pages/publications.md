@@ -31,7 +31,7 @@ _The 10th International Conference on Formal Methods in Software Engineering_
 
 ### 2021
 
-* **Hawkeye: User-Guided Enumeration of Scenarios**
+* **Hawkeye: User-Guided Enumeration of Scenarios**    
 A.Sullivan     
 _The 32nd International Symposium on Software Reliability Engineering_      
 (ISSRE) October 2021. \[[PDF](../files/ISSRE21Hawkeye.pdf)\].  
