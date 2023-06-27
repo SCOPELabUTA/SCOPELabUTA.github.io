@@ -31,6 +31,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023). Congratulations Ana!
 * **April 2023:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on passing her comprehensive exam! She is officially a PhD candidate at UTA.
 * **January 2023:** Congratulations [Allison](https://allisonius.github.io/) on the arrivial of baby Arcadia! 
 * **December 2022:** Congratulations Ana on passing her comprehensive exam! She is officially a PhD candidate at UTA.
