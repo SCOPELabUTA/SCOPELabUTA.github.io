@@ -5,6 +5,10 @@ author_profile: true
 ---
 ### 2023
 
+* **Live Programming for Finite Model Finders**     
+**A.Sullivan**      
+_The 38th IEEE/ACM International Conference on Automated Software Engineering - New Ideas and Emerging Results_      
+(ASE NIER) To Appear.
 * **Mutation Testing for Temporal Alloy Models**     
 A. Jovanovic, A.Sullivan    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
