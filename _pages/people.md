@@ -16,7 +16,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 * **Adam Emerson** <br> - **B.S. in CS Summer 2023:** Built a toolset to help users graphically create unit tests for software models.
-* **Cristian Munoz** <br> - **B.S. in CS - Ongoing:** CASHI-REU - Built a dedicated toolset to help ease the adoption of software modeling toolsets.
+* **Cristian Munoz** <br> - **B.S. in CS - Ongoing:** CASHI-REU - Built a toolset to help ease the adoption of software models.
 * **Resha Adhikari** <br> - **B.S. in CS Spring 2021:** Empirical study of auomated repair and syhnthesis techniques for modeling languages.
 * **William Dunston** <br> - **B.S. in CE Fall 2020:** Extended a Java-based program repair tool to support a broader scope of Java's syntax.
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - **Received:** Rising Scholar Award - only one rising scholar award is given out for the entire university. <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
