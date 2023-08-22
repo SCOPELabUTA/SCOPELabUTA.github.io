@@ -13,11 +13,11 @@ author_profile: true
 * **Guanxuan Wu** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
 * **Mohammad Nurullah Patwary** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2027
 * **Sanyogita Piya** <br> - Bachelors, Focus: Test-Driven Development using LLMs
-* **Adam Emerson** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
-* **Cristian Munoz** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-* **Resha Adhikari** <br> - Bachelors, Empirical study of auomated repair and syhnthesis techniques for modeling languages.
+* **Adam Emerson** <br> - **B.S. in CS Summer 2023:** Built a toolset to help users graphically create unit tests for software models.
+* **Cristian Munoz** <br> - **B.S. in CS - Ongoing:** CASHI-REU - Built a dedicated toolset to help ease the adoption of software modeling toolsets.
+* **Resha Adhikari** <br> - **B.S. in CS Spring 2021:** Empirical study of auomated repair and syhnthesis techniques for modeling languages.
 * **William Dunston** <br> - **B.S. in CE Fall 2020:** Extended a Java-based program repair tool to support a broader scope of Java's syntax.
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - **Received:** Rising Scholar Award - only one rising scholar award is given out for the entire university. <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **George Thompson** <br> - **M.S. Thesis May 2020:** "Towards Automated Fault Localization for Prolog Models" <br> - Nominated for Outstanding Thesis Award <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
