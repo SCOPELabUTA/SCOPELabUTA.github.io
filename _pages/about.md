@@ -17,13 +17,6 @@ We are part of the [Software Engineering Research Center (SERC)](https://se-rese
 
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
-### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> We are hiring!!
-**RAships/TAships appointments available:** Please contact me if you are a interested in pursuing a PhD and have an interest in software engineering and formal verification.  
-*	If interested, you must also apply and be accepted to the PhD program at the Department of Computer Science and Engineering at the University of Texas at Arlington. Mention Dr. Sullivan in your statement of purpose. 
-*	In addition to applying to UTA’s CSE PhD program, interested applicants are encouraged to email a pre-application to Dr. Sullivan. Emails should have the title: "Scope Lab GRA Interest" and include a cover letter, CV and unofficial transcripts.
-*	So, what will you get to work on? We are looking for students interested in working on our recently funded [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) project.
-*	Students generally interested in improving software testing or software verification techniques are also welcome to apply.
-
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and 
 Mutation Testing
