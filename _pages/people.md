@@ -11,6 +11,8 @@ author_profile: true
 * **Ana Jovanovic** <br> - Doctoral, Focus: Formal Verification <br> - Projected Graduation: Spring 2024
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2024
 * **Guanxuan Wu** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
+* **Mohammad Nurullah Patwary** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2027
+* **Sanyogita Piya** <br> - Bachelors, Focus: Test-Driven Development using LLMs
 * **Adam Emerson** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
 * **Cristian Munoz** <br> - Bachelors, Focus: Easing adoption of software modeling toolsets.
 
