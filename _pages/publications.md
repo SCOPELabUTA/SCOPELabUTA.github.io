@@ -8,7 +8,7 @@ author_profile: true
 * **Crucible: Graphical Test Cases for Alloy Models**     
 A. Emerson, A.Sullivan    
 _The 34th International Symposium on Software Reliability Engineering_      
-(ISSRE) To Appear.
+(ISSRE) \[[PDF](../files/ISSRE2023)\].
 * **Live Programming for Finite Model Finders**     
 A.Sullivan      
 _The 38th IEEE/ACM International Conference on Automated Software Engineering - New Ideas and Emerging Results_      
@@ -16,11 +16,11 @@ _The 38th IEEE/ACM International Conference on Automated Software Engineering - 
 * **Mutation Testing for Temporal Alloy Models**     
 A. Jovanovic, A.Sullivan    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
-(MODELS) To Appear.
+(MODELS) \[[PDF](../files/Models2023-B.pdf)\].
 * **Integrating Testing into the Alloy Model Development Workflow**     
 A.Sullivan    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
-(MODELS) To Appear.
+(MODELS) \[[PDF](../files/Models2023-A.pdf)\].
 * **Abstract Alloy Instances**     
 J. O. Ringert, A.Sullivan    
 _The 25th International Symposium on Formal Methods_      
