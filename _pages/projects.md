@@ -5,7 +5,7 @@ author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
-###  <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Live Programming for Formal Methods
+###  <i class="fa fa-fw fa-pencil-square-o" aria-hidden="true"></i> Live Programming for Formal Methods
 Current model development environments are rather “bare bones”, providing no guidance or feedback other than the output itself, and limiting the revision process to the age-old “edit and check”. We are exploring how to combine live programming innovations with the strengths inherent to modeling languages to provide a range of contextualized feedback during the development of software models. For instance, code completion is a common modern IDE feature that does not currently exist for modeling languages. We are exploring how to provide relevant and meaningful formula completion suggestions as the user types their model.
 
 ###  <i class="fa fa-fw fa-clipboard-check" aria-hidden="true"></i> Explainable AI
@@ -14,13 +14,13 @@ Machine learning is a popular, growing field. However, machine learning systems 
 ###  <i class="fa fa-fw fa-bug" aria-hidden="true"></i> Testing and Synthesis of Formal Methods
 Modeling languages can greatly increase the reliability of software systems. Unfortunately, modeling languages are hard to develop in, which brings us to a double edge sword: the software model needs to be correct in order to actually verify the software system. We investigate techniques to both test software models (in all their declarative execution weirdness) and even synthesize key portions of the model for the user.
 
-## <i class="fa fa-fw fa-code" aria-hidden="true"></i> Testing tools for Alloy
+## <i class="fa fa-fw fa-code" aria-hidden="true"></i> Testing Tools for Alloy
 * **[Alloy Analyzer Plus IDE:](https://alloyanalyzerplus.github.io/)** A testing-oriented IDE for Alloy that includes test coverage, mutation testing, fault localization and automated repair.
 * **[Crucible:](https://github.com/Crucible-Alloy/Crucible)** Tool to graphically create AUnit test cases.
 * **[MuAlloy:](https://github.com/MuAlloyT/mualloy_temporal)** Mutation testing tool for Alloy (updated to support linear temporal logic).
 * **[AlloyFL:](https://AlloyFL.github.io)** Alloy Analyzer extension that provides automated fault localization of Alloy models.
 
-## <i class="fa fa-fw fa-code" aria-hidden="true"></i> Synthesis tools for Alloy
+## <i class="fa fa-fw fa-code" aria-hidden="true"></i> Synthesis Tools for Alloy
 * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts performs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
 * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
 
