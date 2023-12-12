@@ -24,6 +24,9 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **December 2023:** Congratulations Sanyogita on her pre-print of [LLM4TDD: Best Practices for Test Driven Development Using Large Language Models](https://arxiv.org/abs/2312.04687).
+* **November 2023:** Congratulations Augustus on his pre-print of [Structural Balance of Complex Weighted Graphs and Multi-partite Consensus](https://arxiv.org/abs/2311.04389). 
+* **November 2023:** Congratulations Augustus on passing his diagnostic exam!
 * **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023]((https://issre.github.io/2023/)). Congratulations Adam!
 * **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023). 
 * **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023). Congratulations Ana!
