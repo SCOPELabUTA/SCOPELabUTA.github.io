@@ -5,7 +5,7 @@ author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
-###  <i class="fa-solid fa-pen-nib" aria-hidden="true"></i> Live Programming for Formal Methods
+###  <i class="fa-solid fa-pen-nib" ></i> Live Programming for Formal Methods
 Current model development environments are rather “bare bones”, providing no guidance or feedback other than the output itself, and limiting the revision process to the age-old “edit and check”. We are exploring how to combine live programming innovations with the strengths inherent to modeling languages to provide a range of contextualized feedback during the development of software models. For instance, code completion is a common modern IDE feature that does not currently exist for modeling languages. We are exploring how to provide relevant and meaningful formula completion suggestions as the user types their model.
 
 ###  <i class="fa fa-fw fa-clipboard-check" aria-hidden="true"></i> Explainable AI
