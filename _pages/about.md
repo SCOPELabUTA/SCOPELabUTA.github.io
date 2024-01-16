@@ -24,6 +24,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/). Congratulations Sanyogita!
 * **December 2023:** Congratulations Allison on receiving a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
 * **December 2023:** Congratulations Sanyogita on her pre-print of [LLM4TDD: Best Practices for Test Driven Development Using Large Language Models](https://arxiv.org/abs/2312.04687).
 * **November 2023:** Congratulations Augustus on his pre-print of [Structural Balance of Complex Weighted Graphs and Multi-partite Consensus](https://arxiv.org/abs/2311.04389). 
