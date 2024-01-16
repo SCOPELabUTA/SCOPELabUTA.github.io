@@ -10,7 +10,7 @@ H. Wu, A.T. Koru, G. Wu, F.L. Lewis, H. Lin \[[PDF](https://arxiv.org/abs/2311.0
 
 ### 2024
 
-* **Crucible: Graphical Test Cases for Alloy Models**     
+* ** LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
 S. Piya, A.Sullivan   
 _The First International Workshop on Large Language Models for Code_      
 (LLM4CODE@ICSE) To Appear. \[[pre-print](https://arxiv.org/abs/2312.04687)\].
