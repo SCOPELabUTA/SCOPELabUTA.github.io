@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### Pre-prints
+* **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
+G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
 
 * **Structural Balance of Complex Weighted Graphs and Multi-partite Consensus**     
 H. Wu, A.T. Koru, G. Wu, F.L. Lewis, H. Lin \[[PDF](https://arxiv.org/abs/2311.04389)\].
