@@ -24,6 +24,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **April 2024:** Congratulations Ana on passing her PhD Proposal!
 * **March 2024:** Congratulations Augustus on his pre-print of [AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph](https://arxiv.org/pdf/2403.00170.pdf).
 * **Feburary 2024:** Congratulations Ana on her pre-print of [Empirically Exploring How Novices Write Software Models in Alloy](https://arxiv.org/pdf/2402.06624.pdf). 
 * **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/). Congratulations Sanyogita!
