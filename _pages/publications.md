@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### Pre-prints
 
-* **Empirically Exploring How Novices Write Software Models in Alloy**     
+* **Right or Wrong: Understanding How Novice Users Write Software Models**     
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
@@ -17,7 +17,7 @@ H. Wu, A.T. Koru, G. Wu, F.L. Lewis, H. Lin \[[PDF](https://arxiv.org/abs/2311.0
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
 S. Piya, A.Sullivan   
 _The First International Workshop on Large Language Models for Code_      
-(LLM4CODE@ICSE) To Appear. \[[pre-print](https://arxiv.org/abs/2312.04687)\].
+(LLM4CODE@ICSE) April 2024. \[[PDF](../files/LLM4CODE.pdf)\].
 
 ### 2023
 
