@@ -9,8 +9,7 @@ author_profile: true
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
-* **Structural Balance of Complex Weighted Graphs and Multi-partite Consensus**     
-H. Wu, A.T. Koru, G. Wu, F.L. Lewis, H. Lin \[[PDF](https://arxiv.org/abs/2311.04389)\].
+
 
 ### 2024
 
@@ -21,6 +20,10 @@ _The First International Workshop on Large Language Models for Code_
 
 ### 2023
 
+* **Structural Balance of Complex Weighted Graphs and Multi-partite Consensus**
+H. Wu, A.T. Koru, G. Wu, F.L. Lewis, H. Lin
+_IEEE Control Systems Letters volume 7_
+2023 \[[PDF](https://arxiv.org/abs/2311.04389)\].
 * **Crucible: Graphical Test Cases for Alloy Models**     
 A. Emerson, A.Sullivan    
 _The 34th International Symposium on Software Reliability Engineering_      
