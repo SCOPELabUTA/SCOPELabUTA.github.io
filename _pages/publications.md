@@ -13,6 +13,10 @@ G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
 
 ### 2024
 
+* **Does Every Computer Scientist Need to Know Formal Methods?**     
+M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, A. Sullivan   
+_Formal Aspects of Computing_      
+(FAOC) To appear.
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
 S. Piya, A.Sullivan   
 _The First International Workshop on Large Language Models for Code_      
