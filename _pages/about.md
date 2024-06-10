@@ -24,7 +24,8 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-* **May 2022:** Congratulations Augustus on passing his comprehensive exam! He is officially a PhD candidate at UTA.
+* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
+* **May 2024:** Congratulations Augustus on passing his comprehensive exam! He is officially a PhD candidate at UTA.
 * **April 2024:** Congratulations Ana on passing her PhD Proposal!
 * **March 2024:** Congratulations Augustus on his pre-print of [AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph](https://arxiv.org/pdf/2403.00170.pdf).
 * **Feburary 2024:** Congratulations Ana on her pre-print of [Empirically Exploring How Novices Write Software Models in Alloy](https://arxiv.org/pdf/2402.06624.pdf). 
