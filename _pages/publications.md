@@ -7,12 +7,13 @@ author_profile: true
 
 * **Right or Wrong: Understanding How Novice Users Write Software Models**     
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
-* **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
-G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
-
 
 ### 2024
 
+* **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
+G. Wu, A. Sullivan. 
+_The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
+(MODELS) To Appear. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
 M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, A. Sullivan   
 _Formal Aspects of Computing_      
