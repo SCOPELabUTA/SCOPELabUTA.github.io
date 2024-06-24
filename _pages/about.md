@@ -24,6 +24,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). Allison will be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
 * **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024). Congratulations Augustus on his first first author publication!
 * **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
 * **May 2024:** Congratulations Augustus on passing his comprehensive exam! He is officially a PhD candidate at UTA.
