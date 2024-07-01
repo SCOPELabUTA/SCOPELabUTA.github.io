@@ -5,6 +5,8 @@ author_profile: true
 ---
 ### Pre-prints
 
+* **Structure Editor for Building Software Models**     
+M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524)\].
 * **Right or Wrong: Understanding How Novice Users Write Software Models**     
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
 
