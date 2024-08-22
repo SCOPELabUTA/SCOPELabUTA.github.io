@@ -14,6 +14,10 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 A. Jovanovic, A.Sullivan  
 _22nd International Conference on Software Engineering and Formal Methods_      
 (SEFM) To Appear. \[[Preprint](https://arxiv.org/pdf/2402.06624.pdf)\].
+* **Mutation Testing for Temporal Alloy Models (Extended Version)**     
+A. Jovanovic, **A.Sullivan**    
+_The International Journal on Software and Systems Modeling_      
+(SoSyM) To Appear.
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, A. Sullivan       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
