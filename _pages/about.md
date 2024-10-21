@@ -15,6 +15,10 @@ A core theme of our research is to reduce the effort needed by developers to ens
 
 We are part of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) within the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
+SCOPE Lab is open to new students for the Fall 2025 semester, but will not be accepting new students in Spring 2025 as Dr. Sullivan will be on maternity leave. 
+* SCOPE lab is looking for students interested in either software engineering or programming language research.
+* SCOPE lab is not currently looking for new students interested in AI/ML. The allotment of students working on SE4AI and AI4SE is full.
+
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Topics
