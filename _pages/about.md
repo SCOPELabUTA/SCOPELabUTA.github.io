@@ -17,7 +17,7 @@ We are part of the [Software Engineering Research Center (SERC)](https://se-rese
 
 SCOPE Lab is open to new students for the Fall 2025 semester, but will not be accepting new students in Spring 2025 as Dr. Sullivan will be on maternity leave. 
 * SCOPE lab is looking for students interested in either software engineering or programming language research.
-* SCOPE lab is not currently looking for new students interested in AI/ML. The allotment of students working on SE4AI and AI4SE is full.
+* SCOPE lab is not currently looking for new students interested in AI/ML. 
 
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
