@@ -17,11 +17,11 @@ _22nd International Conference on Software Engineering and Formal Methods_
 * **Mutation Testing for Temporal Alloy Models (Extended Version)**     
 A. Jovanovic, **A.Sullivan**    
 _The International Journal on Software and Systems Modeling_      
-(SoSyM) To Appear.
+(SoSyM) \[[Link](https://rdcu.be/dYrfs)\].
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, A. Sullivan       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
-(MODELS) To Appear. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
+(MODELS) September 2024. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
 M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, A. Sullivan   
 _Formal Aspects of Computing_      
