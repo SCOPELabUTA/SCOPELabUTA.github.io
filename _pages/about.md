@@ -29,7 +29,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 * **November 2024:** Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
-* * **November 2024:** Congratulations to Dr. Sullivan for receiving the UTA CSE department "Rising Star Research Award"
+* **November 2024:** Congratulations to Dr. Sullivan for receiving the UTA CSE department "Rising Star Research Award"
 * **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x). Congratulations Ana!
 * **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). Congratulations Ana!
 * **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). Allison will be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
