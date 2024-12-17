@@ -28,6 +28,8 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+
+* **December 2024:** One paper accepted into [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
 * **November 2024:** Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
 * **November 2024:** Congratulations to Dr. Sullivan for receiving the UTA CSE department "Rising Star Research Award"
 * **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x). Congratulations Ana!
