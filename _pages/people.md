@@ -11,6 +11,7 @@ author_profile: true
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2025
 * **[Guanxuan Wu](https://555.is/)** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
 * **Mohammad Nurullah Patwary** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2027
+* **Iftekhar Uddin** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2029
 * **Sanyogita Piya** <br> - Bachelors, Focus: Test-Driven Development using LLMs
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students - PhDs
