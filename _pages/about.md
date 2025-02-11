@@ -29,6 +29,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **February 2025:** Our REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
 * **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
 * **December 2024:** One paper accepted into [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
 * **November 2024:** Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
