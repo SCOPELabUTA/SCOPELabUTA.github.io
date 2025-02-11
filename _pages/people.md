@@ -9,7 +9,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2025
-* **[Guanxuan Wu](https://555.is/)** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
+* **Guanxuan Wu** <br> - Doctoral, Focus: Automated Repair of Software Models <br> - Projected Graduation: Spring 2026
 * **Mohammad Nurullah Patwary** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2027
 * **Iftekhar Uddin** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2029
 * **Justine Talia Gacho** <br> - Bachelors, Focus: Verification of Historical Map Translations into Vector-Based GIS Data
