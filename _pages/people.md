@@ -25,9 +25,9 @@ author_profile: true
 * **Regina Bunch** <br> - **M.S. Project Dec 2018:** "AMail: Email for Autism" <br> - **First Job:** Cigna, Philadelphia, PA
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Single Semester REUs
-* **Neha Joshi** <br> - **Fall 2024** CASHI-REU - Generation of completion rules for Alloy constraints.
-* **Moyses Ledezma Berna** <br> - **Spring 2024** CASHI-REU - Hint generation for Alloy mathematical operators.
-* **Cristian Munoz** <br> - **Fall 2022** CASHI-REU - Built a toolset to help ease the adoption of software models.
+* **Neha Joshi** <br> - **Fall 2024:** CASHI-REU - Generation of completion rules for Alloy constraints.
+* **Moyses Ledezma Berna** <br> - **Spring 2024:** CASHI-REU - Hint generation for Alloy mathematical operators.
+* **Cristian Munoz** <br> - **Fall 2022:** CASHI-REU - Built a toolset to help ease the adoption of software models.
 * **Resha Adhikari** <br> - **Fall 2021:** Empirical study of auomated repair and syhnthesis techniques for modeling languages.
 * **William Dunston** <br> - **Fall 2020:** Extended a Java-based program repair tool to support a broader scope of Java's syntax.
 * **Joelle Banks** <br> - **Spring 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis.
