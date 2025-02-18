@@ -44,11 +44,6 @@ Checking and Symbolic Execution
 * **March 2024:** Congratulations Augustus on his pre-print of [AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph](https://arxiv.org/pdf/2403.00170.pdf).
 * **Feburary 2024:** Congratulations Ana on her pre-print of [Empirically Exploring How Novices Write Software Models in Alloy](https://arxiv.org/pdf/2402.06624.pdf). 
 * **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/). Congratulations Sanyogita!
-* **December 2023:** Congratulations Allison on receiving a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
-* **December 2023:** Congratulations Sanyogita on her pre-print of [LLM4TDD: Best Practices for Test Driven Development Using Large Language Models](https://arxiv.org/abs/2312.04687).
-* **November 2023:** Congratulations Augustus on his pre-print of [Structural Balance of Complex Weighted Graphs and Multi-partite Consensus](https://arxiv.org/abs/2311.04389). 
-* **November 2023:** Congratulations Augustus on passing his diagnostic exam!
-* **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023]((https://issre.github.io/2023/)). Congratulations Adam!
-* **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023). 
+* **December 2023:** Congratulations Allison on receiving a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into 
 * **More:** ([Older News](https://SCOPELabUTA.github.io/news/)).
   
