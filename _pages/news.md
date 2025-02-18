@@ -3,6 +3,27 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **February 2025:** Our REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
+* **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
+* **December 2024:** One paper accepted into [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
+* **November 2024:** Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
+* **November 2024:** Congratulations to Dr. Sullivan for receiving the UTA CSE department "Rising Star Research Award"
+* **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x). Congratulations Ana!
+* **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). Congratulations Ana!
+* **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). Allison will be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
+* **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024). Congratulations Augustus on his first first author publication!
+* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
+* **May 2024:** Congratulations Augustus on passing his comprehensive exam! He is officially a PhD candidate at UTA.
+* **April 2024:** Congratulations Ana on passing her PhD Proposal!
+* **March 2024:** Congratulations Augustus on his pre-print of [AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph](https://arxiv.org/pdf/2403.00170.pdf).
+* **Feburary 2024:** Congratulations Ana on her pre-print of [Empirically Exploring How Novices Write Software Models in Alloy](https://arxiv.org/pdf/2402.06624.pdf). 
+* **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/). Congratulations Sanyogita!
+* **December 2023:** Congratulations Allison on receiving a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
+* **December 2023:** Congratulations Sanyogita on her pre-print of [LLM4TDD: Best Practices for Test Driven Development Using Large Language Models](https://arxiv.org/abs/2312.04687).
+* **November 2023:** Congratulations Augustus on his pre-print of [Structural Balance of Complex Weighted Graphs and Multi-partite Consensus](https://arxiv.org/abs/2311.04389). 
+* **November 2023:** Congratulations Augustus on passing his diagnostic exam!
+* **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023]((https://issre.github.io/2023/)). Congratulations Adam!
+* **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023). 
 * **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023). Congratulations Ana!
 * **April 2023:** Congratulations [Anahita](https://www.linkedin.com/in/anahita-samadi-2756704b/) on passing her comprehensive exam! She is officially a PhD candidate at UTA.
 * **January 2023:** Congratulations [Allison](https://allisonius.github.io/) on the arrivial of baby Arcadia! 
