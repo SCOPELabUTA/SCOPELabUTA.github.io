@@ -12,7 +12,7 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 
 * **Refining Alloy-Based Mutation Operators to Reflect Common Mistakes**     
 A. Jovanovic, M.N. Patwary, A. Sullivan  
-_Ihe 13th International Conference on Formal Methods in Software Engineering_      
+_The 13th International Conference on Formal Methods in Software Engineering_      
 (FormaliSE 2025) To Appear. 
 * **Is More or Less Automation Better? An Investigation into the LLM4TDD Process**     
 S. Piya, A.Samadi, A.Sullivan  
