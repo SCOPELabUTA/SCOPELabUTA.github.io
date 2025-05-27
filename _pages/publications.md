@@ -11,34 +11,34 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 ### 2025
 
 * **Refining Alloy-Based Mutation Operators to Reflect Common Mistakes**     
-A. Jovanovic, M.N. Patwary, A. Sullivan  
+A. Jovanovic, M.N. Patwary, **A. Sullivan**  
 _The 13th International Conference on Formal Methods in Software Engineering_      
-(FormaliSE 2025) To Appear. 
+(FormaliSE 2025) April 2025. \[[PDF](../files/FormaliSE2025.pdf)\]. 
 * **Is More or Less Automation Better? An Investigation into the LLM4TDD Process**     
-S. Piya, A.Samadi, A.Sullivan  
+S. Piya, A. Samadi, **A. Sullivan**  
 _The Second International Workshop on Large Language Models for Code_      
-(LLM4CODE 2025 @ ICSE) To Appear. 
+(LLM4CODE 2025 @ ICSE) April 2025. \[[PDF](../files/LLM4CODE2025.pdf)\].
 
 ### 2024
 
 * **Right or Wrong: Understanding How Novice Users Write Software Models**     
-A. Jovanovic, A.Sullivan  
+A. Jovanovic, **A. Sullivan**    
 _22nd International Conference on Software Engineering and Formal Methods_      
 (SEFM) To Appear. \[[Preprint](https://arxiv.org/pdf/2402.06624.pdf)\].
 * **Mutation Testing for Temporal Alloy Models (Extended Version)**     
-A. Jovanovic, **A.Sullivan**    
+A. Jovanovic, **A. Sullivan**    
 _The International Journal on Software and Systems Modeling_      
 (SoSyM) \[[Link](https://rdcu.be/dYrfs)\].
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
-G. Wu, A. Sullivan       
+G. Wu, **A. Sullivan**       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
-(MODELS) September 2024. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
+(MODELS) September 2024. \[[PDF](../files/MODELS2024.pdf)\].
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
-M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, A. Sullivan   
+M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, **A. Sullivan**   
 _Formal Aspects of Computing_      
 (FAOC) \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3670795)\].
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
-S. Piya, A.Sullivan   
+S. Piya, **A. Sullivan**   
 _The First International Workshop on Large Language Models for Code_      
 (LLM4CODE@ICSE) April 2024. \[[PDF](../files/LLM4CODE.pdf)\].
 
