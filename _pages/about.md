@@ -27,6 +27,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **August 2025:** Dr. Sullivan has received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
 * **April 2025:** Congratulations to Dr. Sullivan for receiving the UTA College of Engineering "Outstanding Early Career Faculty" Award
 * **March 2025:** Congratulations to Dr. Anahita Samadi on successfully defending her dissertation! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
 * **February 2025:** Our REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
