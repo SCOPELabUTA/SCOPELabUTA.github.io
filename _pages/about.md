@@ -27,6 +27,8 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
+* **September 2025:** Dr. Sullivan organized/attended the [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development".
 * **August 2025:** Dr. Sullivan has received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
 * **April 2025:** Congratulations to Dr. Sullivan for receiving the UTA College of Engineering "Outstanding Early Career Faculty" Award
 * **March 2025:** Congratulations to Dr. Anahita Samadi on successfully defending her dissertation! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
