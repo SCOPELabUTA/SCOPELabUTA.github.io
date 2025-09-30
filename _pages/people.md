@@ -12,6 +12,7 @@ author_profile: true
 * **Mohammad Nurullah Patwary** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2027
 * **Iftekhar Uddin** <br> - Doctoral, Focus: Live Programming for Formal Methods <br> - Projected Graduation: Spring 2029
 * **Justine Talia Gacho** <br> - Bachelors, Focus: Verification of Historical Map Translations into Vector-Based GIS Data
+* **Tiarra Marcee Payne** <br> - Bachelors, Focus: Verification of Historical Map Translations into Vector-Based GIS Data
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students - PhDs
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** co-advised with Jacob Luber <br> - **Dissertation:** "Advancing Machine Learning Approaches Through Robust Methodologies in LLM Code Generation, Adversarial Text Classification, and Unsupervised Learning" <br> - **First Job:** UT Southwestern Post Doc
