@@ -29,6 +29,7 @@ Checking and Symbolic Execution
 
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
+* **September 2025:** Congrats to Dr. Sullivan for making [Arlington's 40 under 40 class of 2025](https://www.arlingtontx.com/blog/announcing-arlingtons-40-under-40-class-of-2025/)!
 * **September 2025:** Dr. Sullivan organized/attended the [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development".
 * **August 2025:** Dr. Sullivan has received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
 * **April 2025:** Congratulations to Dr. Sullivan for receiving the UTA College of Engineering "Outstanding Early Career Faculty" Award
