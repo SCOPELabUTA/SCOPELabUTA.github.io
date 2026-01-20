@@ -18,6 +18,7 @@ We are part of the [Software Engineering Research Center (SERC)](https://se-rese
 SCOPE Lab has one PhD opening for the Fall 2026 semester. The main goal of this research is to make software abstractions easier to understand and use, so that developers can build more reliable and trustworthy software. Students interested in working on one of the two following funded projects:
  * [Interactive Tutor for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false)
  * [Live Programming for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false)
+   
 Should apply to UTA's CSE PhD program and mentioned Dr. Sullivan in your "Statement of Purpose." 
 
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
