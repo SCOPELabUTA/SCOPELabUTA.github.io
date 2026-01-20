@@ -16,7 +16,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students - PhDs
 * **[Anahita Samadi](https://www.linkedin.com/in/anahita-samadi-2756704b/)** co-advised with Jacob Luber <br> - **Dissertation:** "Advancing Machine Learning Approaches Through Robust Methodologies in LLM Code Generation, Adversarial Text Classification, and Unsupervised Learning" <br> - **First Job:** UT Southwestern Post Doc
-* **Ana Jovanovic** <br> - **Dissertation:** "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
+* **Ana Jovanovic** <br> - **Dissertation:** "Improving the Accuracy of Software Models Using Refinement and Mutation Testing" <br> - **First Job:** Microsoft (Belgrade, Serbia)
   
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students - REUs and Masters
 * **Sanyogita Piya** <br> - **B.S. in CS Fall 2023:** Test-Driven Development using LLMs <br> - **First Job:** Mouser Electronics, Volunteer in SCOPE Lab
