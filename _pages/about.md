@@ -16,8 +16,8 @@ A core theme of our research is to reduce the effort needed by developers to ens
 We are part of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) within the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
 **SCOPE Lab has one PhD opening for the Fall 2026 semester.** The main goal of this research is to make software abstractions easier to understand and use, so that developers can build more reliable and trustworthy software. Students interested in working on one of the two following funded projects should apply to [UTA's CSE PhD](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd) program and mentioned Dr. Sullivan in your "Statement of Purpose":
- * [Interactive Tutor for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false)
- * [Live Programming for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false)
+* [Live Programming for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false)
+* [Interactive Tutor for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false)
    
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
