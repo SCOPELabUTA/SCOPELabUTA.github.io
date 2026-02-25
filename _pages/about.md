@@ -29,6 +29,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **Janurary 2026:** Happy to welcome undergrads Luke & Joel onto the map verification project and undergrads Andy & Mushtahir into the Spring 2026 CRA UR2PhD REU training course!
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
 * **September 2025:** Congrats to Dr. Sullivan for making [Arlington's 40 under 40 class of 2025](https://www.arlingtontx.com/blog/announcing-arlingtons-40-under-40-class-of-2025/)!
