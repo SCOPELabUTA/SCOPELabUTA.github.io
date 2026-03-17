@@ -29,6 +29,8 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **March 2026:** One paper "Towards Output Directed Debugging of Finite Model Finders" accepted into FSE's Ideas, Visions, and Reflections track ([FSE-IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)). Congratulations Mohammad!
+* **March 2026:** Congrats Andy on being selected for a [CRA UR2PhD Summer REU](https://cra.org/ur2phd/)!
 * **Janurary 2026:** Happy to welcome undergrads Luke & Joel onto the map verification project and undergrads Andy & Mushtahir into the Spring 2026 CRA UR2PhD REU training course!
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
