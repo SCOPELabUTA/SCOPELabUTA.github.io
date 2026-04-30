@@ -29,7 +29,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **April 2026:** Got an NSF REU supplement for my CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
+* **April 2026:** Got an NSF REU supplement for Dr. Sullivan's CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
 * **March 2026:** One paper "Towards Output Directed Debugging of Finite Model Finders" accepted into FSE's Ideas, Visions, and Reflections track ([FSE-IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)). Congratulations Mohammad!
 * **March 2026:** Congrats Andy on being selected for a [CRA UR2PhD Summer REU](https://cra.org/ur2phd/)!
 * **Janurary 2026:** Happy to welcome undergrads Luke & Joel onto the map verification project and undergrads Andy & Mushtahir into the Spring 2026 CRA UR2PhD REU training course!
