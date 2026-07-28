@@ -29,7 +29,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into ASE ([ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)). Congratulations Mohammad!
+* **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track). Congratulations Mohammad!
 * **May 2026:** The recap report from Dr. Sullivan's [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
 * **April 2026:** Got an NSF REU supplement for Dr. Sullivan's CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
 * **March 2026:** One paper "Towards Output Directed Debugging of Finite Model Finders" accepted into FSE's Ideas, Visions, and Reflections track ([FSE-IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)). Congratulations Mohammad!
