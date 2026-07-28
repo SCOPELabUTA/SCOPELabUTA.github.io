@@ -3,17 +3,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Pre-prints
-
-* **Structure Editor for Building Software Models**     
-M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524)\].
 
 ### 2026
 
+* **Formula Completion Suggestions for Alloy Models with Selection Guidance**     
+M.N. Patwary, **A. Sullivan**  
+_The 41st IEEE/ACM International Conference on Automated Software Engineering_      
+(ASE 2026) To Appear.  
 * **Towards Output Directed Debugging of Finite Model Finders**     
 M.N. Patwary, **A. Sullivan**  
 _The ACM International Conference on the Foundations of Software Engineering - Ideas, Visions, and Reflections Track_      
-(FSE IVR 2026) To Appear.
+(FSE IVR 2026) \[[PDF](https://dl.acm.org/doi/10.1145/3803437.3805576)\].
 
 ### 2025
 
