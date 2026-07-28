@@ -19,8 +19,8 @@ author_profile: true
 * **Ana Jovanovic** <br> - **Dissertation:** "Improving the Accuracy of Software Models Using Refinement and Mutation Testing" <br> - **First Job:** Microsoft (Belgrade, Serbia)
   
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students - REUs and Masters
-* **Tiarra Marcee Payne** <br> - **B.S. in CE expected Spring 2027:**  Verification of Historical Map Translations into Vector-Based GIS Data, CRA's UR2PhD REU, COE REU
-* **Luke Siharath** <br> - **B.S.  in CE expected Spring 2027:**  Verification of Historical Map Translations into Vector-Based GIS Data, COE REU
+* **Tiarra Marcee Payne** <br> - **B.S. in CE expected Spring 2027:**  Verification of Historical Map Translations into Vector-Based GIS Data <br> - CRA's UR2PhD REU, COE REU
+* **Luke Siharath** <br> - **B.S.  in CE expected Spring 2027:**  Verification of Historical Map Translations into Vector-Based GIS Data <br> - COE REU
 * **Justine Talia Gacho** <br> - **B.S. in CS Fall 2026:** Verification of Historical Map Translations into Vector-Based GIS Data <br> - CRA's UR2PhD REU, UTA CSE Deparment REU, UTA COE REU
 * **Sanyogita Piya** <br> - **B.S. in CS Fall 2023:** Test-Driven Development using LLMs <br> - **First Job:** Mouser Electronics, Fall 2026 incoming PhD Student in SCOPE Lab
 * **Adam Emerson** <br> - **B.S. in CS Summer 2023:** Built a toolset to help users graphically create unit tests for software models.  <br> - **First Job:** UTA PhD student in Dr. Torres
