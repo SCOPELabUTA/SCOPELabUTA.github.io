@@ -15,9 +15,7 @@ A core theme of our research is to reduce the effort needed by developers to ens
 
 We are part of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) within the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA).
 
-**SCOPE Lab has one PhD opening for the Fall 2026 semester.** The main goal of this research is to make software abstractions easier to understand and use, so that developers can build more reliable and trustworthy software. Students interested in working on one of the two following funded projects should apply to [UTA's CSE PhD](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd) program and mention Dr. Sullivan in your "Statement of Purpose":
-* [Live Programming for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false)
-* [Interactive Tutor for Modeling Languages](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false)
+**SCOPE Lab is not currently accepting new PhD students.** 
    
 (Yes, our icon is [Allison](https://allisonius.github.io/)'s smiling cat because.... why not?)
 
@@ -29,6 +27,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **October 2026:** One REU project "A Formal Method Approach to Evaluate Gaussian Splatting Methods" got selected for support. Thank you COE@UTA.
 * **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track). Congratulations Mohammad!
 * **May 2026:** The recap report from Dr. Sullivan's [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
 * **April 2026:** Got an NSF REU supplement for Dr. Sullivan's CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
